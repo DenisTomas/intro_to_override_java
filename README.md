@@ -26,5 +26,5 @@ Contributions to this project are welcome. If you have any suggestions or want t
 License
 This project is licensed under the MIT License.
 
-##Author
+Author
 This project was created by Denis Tomás
