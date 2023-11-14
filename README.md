@@ -2,7 +2,7 @@
 
 This TypeScript project calculates the area of geometric figures, specifically rectangles and right-angled triangles. It utilizes the principles of inheritance and method overriding in object-oriented programming.
 
-## Features
+## 🔨 Features
 
 - **Rectangle Area Calculation:** The `Rectangle` class inherits from the abstract class `GeometricFigure` and overrides the `calculateArea()` method to calculate the area of a rectangle.
 
@@ -10,21 +10,28 @@ This TypeScript project calculates the area of geometric figures, specifically r
 
 - **Application Execution:** The `Application` class is responsible for executing the application. It creates instances of `Rectangle` and `RightAngledTriangle` and calls the `calculateArea()` method for each instance.
 
-How to Use
+## 🛠 Tecnologias
+
+- Java
+
+## 🚀 How to Use
 
 1. Clone this repository to your local machine.
-2. Run the Application class.
 
-Example Output:
+2. Run the `Application` class.
 
-Rectangle area: 50.0
-Right-angled triangle area: 25.0
+   **Example Output:**
+   ```plaintext
+   Rectangle area: 50.0
+   Right-angled triangle area: 25.0
 
-Contributions
+🤝 Contributions
 Contributions to this project are welcome. If you have any suggestions or want to report a bug, please open an issue.
 
-License
+📝 License
 This project is licensed under the MIT License.
 
-Author
+👤 Author
 This project was created by Denis Tomás
+
+
